@@ -1,16 +1,38 @@
-# React + Vite
+# 🌐 Developer Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern, and highly responsive portfolio website designed for full-stack developers to display their featured software projects, tech stack, and professional background.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- **Responsive Design:** Optimized for seamless viewing across desktop, tablet, and mobile devices.
+- **Projects Showcase:** Dedicated section highlighting full-stack applications with live demos and repository links.
+- **Skill Overview:** Categorized layout displaying frontend, backend, database, and tool competencies.
+- **Contact Integration:** Easy-to-use channels for prospective recruiters and freelance inquiries.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Framework:** React
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+
+---
+
+## ⚡ Getting Started Locally
+
+### **1. Clone the repository**
+git clone https://github.com/seid8974/react-dev-portfolio.git
+cd react-dev-portfolio
+
+### **2. Install Dependencies**
+npm install
+
+### **3. Run the Development Server**
+npm run dev
+
+---
+
+⭐️ *Developed by [Seid Mohammed](https://github.com/seid8974)*
